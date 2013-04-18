@@ -2,6 +2,7 @@ OnlineVirusInfoQuery
 ====================
 
 This is an eclipse project.
+You may see some strange usage of C++,only for practice perposes ... lol~
 
 ##Dependence:
 libcurl
